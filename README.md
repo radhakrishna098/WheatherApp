@@ -13,10 +13,7 @@ Weather API (replace with the name of the API you used)
 Getting Started:
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/PROShivamPatidar/wheatherApplication
-Obtain an API key from the weather API provider and replace YOUR_API_KEY in script.js with your actual API key.
+
 
 Open index.html in your preferred web browser.
 
